@@ -5,7 +5,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class PointTest {
+class
+PointTest {
     private Point point;
 
     @BeforeEach
