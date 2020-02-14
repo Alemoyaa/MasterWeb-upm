@@ -118,6 +118,7 @@ Las posibles ampliaciones son libres, o podrían ser las siguientes:
 Indicar como texto en la subida la **URL de GitHub**
 > **NOTA. Acordarse de dar al botón de envío**
 
+
 ### :ballot_box_with_check: Criterios de evaluación (ver rúbrica)
 * Completud y corrección de lo entregado respecto al enunciado.
 * Adecuación de la temporalidad de desarrollo según el enunciado.
