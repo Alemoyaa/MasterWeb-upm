@@ -23,12 +23,11 @@
 
     <developers>
         <developer>
-            <name>Jesus Bernal</name>
-            <id>J.Bernal</id>
-            <email>j.bernal@upm.es</email>
-            <organization>MIW UPM</organization>
+            <name>Alejandro Moya</name>
+            <id>A.Moya</id>
+            <organization>home</organization>
             <roles>
-                <role>Architect</role>
+                <role>Designer</role>
                 <role>Developer</role>
             </roles>
         </developer>
